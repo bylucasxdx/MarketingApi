@@ -26,13 +26,13 @@ python3 -m swagger_server
 Para testar use o seguinte endereço:
 
 ```
-http://localhost:8080/bylucasxdx/CatalogApi/1.0.0/ui/
+http://localhost:8080/bylucasxdx/MarketingApi/1.0.0/ui/
 ```
 
 O código swagger fica neste endereço:
 
 ```
-http://localhost:8080/bylucasxdx/CatalogApi/1.0.0/swagger.json
+http://localhost:8080/bylucasxdx/MarketingApi/1.0.0/swagger.json
 ```
 
 ## Rodando com Docker
